@@ -1,0 +1,5 @@
+As the raw dataset is too large, It can not be incorporated in GitHub. Official data link is provided.
+
+https://datacatalogfiles.worldbank.org/ddh-published-v2/0037712/DR0045575/WDI_CSV_2025_03_25.zip
+
+After downloading, unzip the files, and find the file with same name as WDICSV.csv and then run the jupyter notebook
